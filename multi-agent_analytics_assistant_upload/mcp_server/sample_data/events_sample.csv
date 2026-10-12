@@ -1,6 +1,0 @@
-event_id,user_id,event_type,timestamp,amount
-evt_1001,usr_105,click,2026-07-01 10:02:00,
-evt_1002,usr_105,purchase,2026-07-01 10:18:00,40.51
-evt_1003,usr_105,click,2026-07-01 12:12:00,
-evt_1004,usr_104,remove_from_cart,2026-07-01 10:24:00,
-evt_1005,usr_101,add_to_cart,2026-07-01 10:30:00,9.61
