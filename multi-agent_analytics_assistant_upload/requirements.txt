@@ -1,0 +1,1 @@
+streamlit, crewai, crewai-tools, python-dotenv, requests, pyyaml, mcp, pandas, duckdb
